@@ -15,7 +15,7 @@
     <color name="cfdialog_positive_button_pressed_color">#80e598</color>
     <color name="cfdialog_negative_button_color">#FF4B4B</color>
     <color name="cfdialog_negative_button_pressed_color">#ff9999</color>
-    <color name="cfdialog_neutral_button_color">#6768d9</color>
+    <color name="cfdialog_neutral_button_color">#45ACFC</color>
     <color name="cfdialog_neutral_button_pressed_color">#999ae6</color>
 
 </resources>
